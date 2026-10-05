@@ -1,6 +1,6 @@
-- 👋 Hello, I’m @AndyMcGravy! I am a current InfoSec/Networking Student.
-- 👀 I’m interested in cybersecurity, networking, and Linux.
-- 🌱 I’m currently learning more Python (argparse,tkinter,pillow) in a project. I'm also running Arch Linux on another device getting all set up with that, looking at running a session with Nix, tbd.
+- 👋 Hello, I’m @AndyMcGravy! I am a current InfoSec/Net Student.
+- 👀 I’m interested in cybersecurity, web dev, and Linux.
+- 🌱 I’m currently learning more Python (argparse,tkinter,pillow) in a project. I'm also running different Linux distros by the month (exploring!)
 - 📫 How to reach me: andymcgravy@gmail.com
 
 <!---
